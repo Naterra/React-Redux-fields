@@ -2,11 +2,7 @@
 
 ## Installation
 ```
-npm install gitlab:tools84/redux-materialize-fields --save
- 
-
-//or specific tag/release
-npm install gitlab:tools84/redux-materialize-fields#v1.12 --save
+npm install npm install https://github.com/Naterra/React-Redux-fields.git
 ```
 
 
